@@ -2,6 +2,7 @@
 - 👀 I’m interested in Cryptography,..maybe more HipHop(dance)!
 - 🌱 I’m currently learning Cryptography.
 - 💞️ A Junior student @Xidian University.
+- 💞️ Member of L-team@xdsec.
 
 <!---
 D33BaT0/D33BaT0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
